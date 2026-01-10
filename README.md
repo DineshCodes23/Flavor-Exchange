@@ -17,7 +17,7 @@ Flavor Exchange is a visually appealing and user-friendly recipe-sharing website
 ## How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/D-CodeDynasty/Flavor-Exchange.git
+   https://github.com/dineshh-dev/Flavor-Exchange.git
    ```
 2. Open the project folder and run `index.html` in a browser.
 
@@ -29,7 +29,7 @@ Flavor Exchange is a visually appealing and user-friendly recipe-sharing website
 
 ## Author
 📌 **Dineshkumar M**  
-🔗 [GitHub Profile](https://github.com/D-CodeDynasty)
+🔗 [GitHub Profile](https://github.com/dineshh-dev)
 
 ## License
 This project is created to showcase my work as a front-end developer. It is not affiliated with any commercial recipe platform.
